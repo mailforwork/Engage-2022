@@ -17,7 +17,9 @@ This project is built as a part of [Engage Mentorship Program 2022](https://aceh
 
 
 ### About
-This is a basic website where victim can upload 
+
+This is a basic website where victim can upload images of culprit or person they are suspicious about. The TensorFlow models present in the code integrated with face-api.js will help in identifying if this person is suspicious or not. The database of criminals can be provided by government or private investigators. 
+
 **Ideation**
 ![Basic Idea](https://github.com/mailforwork/Engage-2022/blob/main/images/Ideation.png)
 **Thought Process**
