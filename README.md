@@ -30,7 +30,7 @@ User is directed to a homepage with clear UI. User is expected to click on Uploa
 As the model is kept simple, for now I have added only a limited dataset. However, the database can be extended using NoSQL databases etc.
 
 ### Demo Video
-- [Demo Video](#)
+- [Demo Video](https://youtu.be/HjZdPBDSrDA)
 
 ### Features
  - Landing Page
