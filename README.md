@@ -8,7 +8,6 @@ This project is built as a part of [Engage Mentorship Program 2022](https://aceh
 1. [About the Project](#about)
 2. [Demo Video](#demo-video)
 3. [Features](#features)
-4. [Dependencies](#dependencies)
 5. [Instructions To Setup](#instructions)
 6. [System Architecture](#system-architechture)
 7. [Future Scope](#future-scope)
