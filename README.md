@@ -17,15 +17,23 @@ This project is built as a part of [Engage Mentorship Program 2022](https://aceh
 
 
 ### About
-
-
+**Ideation**
+![Basic Idea](https://github.com/mailforwork/Engage-2022/blob/main/images/Ideation.png)
+**Thought Process**
+![enter image description here](https://github.com/mailforwork/Engage-2022/blob/main/images/ideation_1.png)
 
 ### Demo Video
 - [Demo Video](#)
 
 ### Features
 1. Landing Page
+![enter image description here](https://github.com/mailforwork/Engage-2022/blob/main/images/coded_file.png)
 
+2. Choosing Image
+![enter image description here](https://github.com/mailforwork/Engage-2022/blob/main/images/choose_image.png)
+
+3. Face Detection by Model : Using Test Image
+![enter image description here](https://github.com/mailforwork/Engage-2022/blob/main/images/test_image.png)
 
 
 ### Dependencies
@@ -37,7 +45,11 @@ This project is built as a part of [Engage Mentorship Program 2022](https://aceh
 
 
 ### System Architechture
+1. File Structure
+![enter image description here](https://github.com/mailforwork/Engage-2022/blob/main/images/System%20Architecture.png)
 
+2. Images Structure 
+![enter image description here](https://github.com/mailforwork/Engage-2022/blob/main/images/Images.png)
 
 ### Repository Structure
 
